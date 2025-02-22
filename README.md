@@ -1,6 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Mathematical and Simulation Skills: Linear Programming, Integer Programming, BI and Multi-objective optimization, Decomposition Algorithms, Monte-Carlo Simulation, System Dynamics
+#### Technical/Software Skills: Python, SQL, Microsoft AZURE, DOCKER
 
 ## Education
 - Ph.D., Supply Chain Optimization | Indian Institute of Technology Bombay (_May 2022_)								       		
