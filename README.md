@@ -17,19 +17,21 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+• **Assortment Planning**: I developed an assortment planning tool for CPG B2B business that facilitates decisionmaking on product selection based on factors such as market demand, customer transactions, and product coverage. The strategy has helped the business team to achieve a profit of around 10-15% for every business cycle.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+• **Rail Rakes Scheduling**: Developed MILP tool for railway rakes allocation, optimizing utilization, and meeting
+capacity constraints for distribution of Petrochemical products. The model optimizes rakes, shipment strategy, and
+allocation based on demand. Collaborated with back-end and petrochemical teams to create a user interface. We
+patented the algorithm and presented the research at the ORSI conference at IISC Bangalore, 2023.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+• **Vehicle Routing**: I implemented Google Maps API for route optimization, fetching real-time coordinates for over
+1000 locations. Improved clustering strategy by 13%, reducing end-to-end transportation by 10-15% compared to
+existing algorithms. I implemented algorithms such as Google OR tools, Integer programming, and Hybrid Genetic
+Algorithm.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+• **Reliance DS platform**: I have developed multiple APIs for projects such as network optimization, transportation,
+inventory management, shipment optimization, and terminal-ro mapping.
 
 ## Awards and Honors
 Naik and Rastogi Award for Excellence in Ph.D. Research for academic year 2022 at IIT Bombay, India.
@@ -40,7 +42,8 @@ on supply chain performance using piece-wise linear approximation was awarded be
 presentation at RCOSCM, 19-20 November, held at Nashik, SIOM. India
 
 ## Publications
-A) Paper accepted in Journals
+
+**A) Paper accepted in Journals**
 1. Pravin D Suryawanshi and Pankaj Dutta (2022). Optimization models for supply chains under risk, 
 uncertainty, and resilience: A state-of-the-art review and future research directions. Transportation research 
 part e: logistics and transportation review. Accepted (November 2021). (ABDC Rank - A*, ABS - 3, Cite 
@@ -52,11 +55,11 @@ Management. (ABDC Rank - B, ABS - 1, Cite Score - 4.1 [2021]).
 planning for the supply chain of online hyperlocal grocery services. Sustainable Production and Consumption. 
 (Listed in ARC 2018, Cite Score: 6.7 [2021], Impact Factor: 5.032 [2021]).
 
-B) Paper under review
+**B) Paper under review**
 1. Pravin Suryawanshi, Pankaj Dutta, and (2022). Production and distribution planning of dairy product supply 
 chain: a stochastic view.
 
-C) Paper accepted in Conference Proceedings
+**C) Paper accepted in Conference Proceedings**
 1. Pravin D Suryawanshi and Sandesh Gaikwad, Akansha Kumar, Akhil Patlolla, Sai J Kumar (2023, 
 December). A Hybrid Bayesian-Genetic Algorithm Based Hyperparameter Optimization of a LSTM Network 
 for Demand Forecasting of Retail Products. In Proceedings of the 15th International Joint Conference on 
@@ -73,7 +76,7 @@ Petroleum Products Model. In Springer Proceedings of the 56th Annual Convention 
 Perishable Product Supply Chain Network under Different Disruptions. In International Conference on 
 Information Technology and Applied Mathematics (pp. 656-669). Springer, Cham.
 
-E) Other Publications with Collaboration
+**D) Other Publications with Collaboration**
 1. Pravin D Suryawanshi and Pankaj Dutta (2019, November). Minimizing the impact of demand stochasticity 
 on supply chain performance using piece-wise linear approximation was awarded best research paper 
 presentation at RCOSCM, 19-20 November, held at Nashik, SIOM. India.
