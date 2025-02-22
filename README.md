@@ -9,12 +9,11 @@
 
 ## Work Experience
 **Senior Planning Specialist @ DP World, JABAL ALI FZE, DUBAI, UAE (_Novenember 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+-collaborate with cross-functional teams to identify synergies and implement impactful improvements. My work involves developing cutting-edge algorithms for data-intensive problems and scaling solutions for logistics and scheduling challenges in ports. I am contributing to innovation at DP World by addressing complex business and engineering
+challenges.
 
 **Data Science Operations Research, Reliance Jio Platform, Navi Mumbai, India (_August 2022 - Octomber 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+I have contributed to solve some real world business projects within retail and CPG domain using state-of-the-art machine leanring and operations research models
 
 ## Projects
 
