@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist Operations Research
 
 #### Mathematical and Simulation Skills: Linear Programming, Integer Programming, BI and Multi-objective optimization, Decomposition Algorithms, Monte-Carlo Simulation, System Dynamics
 #### Technical/Software Skills: Python, SQL, Microsoft AZURE, DOCKER
